@@ -22,3 +22,5 @@
 [12강. 빠른 CPU를 위한 설계 기법 ](https://www.notion.so/12-CPU-134357c44e5680e0badadd2ff6c1536b?pvs=21)
 
 [13강. 명령어 병렬 처리 기법](https://www.notion.so/13-134357c44e5680bba3acca187cfb014e?pvs=21)
+
+[14강. 명령어 집합 구조, CISC와 RISC](https://moondongmin.notion.site/14-CISC-RISC-134357c44e5680d89399c0796a6acfa2?pvs=4)
