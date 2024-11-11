@@ -24,3 +24,9 @@
 [13강. 명령어 병렬 처리 기법](https://www.notion.so/13-134357c44e5680bba3acca187cfb014e?pvs=21)
 
 [14강. 명령어 집합 구조, CISC와 RISC](https://moondongmin.notion.site/14-CISC-RISC-134357c44e5680d89399c0796a6acfa2?pvs=4)
+
+[15강. RAM의 특성과 종류](https://moondongmin.notion.site/15-RAM-13b357c44e568018a2bff101fcd31d0f?pvs=4)
+
+[16강. 메모리의 주소 공간-물리 주소와 논리 주소](https://www.notion.so/16-13b357c44e56805c9b6ed0aa4f757984?pvs=21)
+
+[17강. 캐시 메모리](https://www.notion.so/17-13b357c44e5680d18cc4e7dc8169b091?pvs=21)
